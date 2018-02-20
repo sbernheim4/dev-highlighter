@@ -9,6 +9,7 @@ body > button {
 	border-radius: 5px;
 	color: white;
 	outline: none;
+	cursor: pointer;
 }
 body > button:visited {
 	outline: 1px solid black;
