@@ -1,0 +1,15 @@
+body {
+	width: 200px;
+}
+
+body > button {
+	width: 100%;
+	height: 30px;
+	background: rgb(22, 81, 154);
+	border-radius: 5px;
+	color: white;
+	outline: none;
+}
+body > button:visited {
+	outline: 1px solid black;
+}
